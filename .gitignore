@@ -1,0 +1,8 @@
+
+#exclude all image
+*.jpg
+*.png
+
+# exlude pre-trained mask-rcnn
+
+*.h5
